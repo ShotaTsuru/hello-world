@@ -6,3 +6,4 @@
 
 pull rebase用の文章
 pull --rebase用の文章その２
+pull --rebase用の文章その3
