@@ -5,3 +5,4 @@
 
 
 pull rebase用の文章
+pull --rebase用の文章その２
